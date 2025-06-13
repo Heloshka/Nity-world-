@@ -18,7 +18,13 @@ Open source project for collaborative creation
 AI-generated world that responds to the player
 
 40-level relationship system with NPCs and players
+## 💻Development Timeline
 
+The active development of Nity World is planned to begin around 2026–2027.
+Currently, the project is in the conceptual phase with preliminary ideas and documentation being refined.
+This repository contains early designs and partial implementations as the foundation for the upcoming full development.
+
+We welcome feedback and discussions, but major code contributions will be open once the core structure is established.
 ## 🤝 How to Contribute
 
 Currently, the project is in early concept and development phase.
