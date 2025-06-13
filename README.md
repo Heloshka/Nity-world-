@@ -1,3 +1,4 @@
+##nity-world
 🌌 Nity World – A Living Digital Universe
 
 Nity World is an ambitious next-generation RPG world that adapts to player actions, changes in real time, and continues to live even without a developer.
@@ -17,6 +18,10 @@ Open source project for collaborative creation
 AI-generated world that responds to the player
 
 40-level relationship system with NPCs and players
+
+## License
+
+This project is licensed under the Mozilla Public License 2.0 – see the [LICENSE](./LICENSE) file for details.
 
 Social events, economy, and politics in the game
 
