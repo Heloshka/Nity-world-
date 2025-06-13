@@ -31,6 +31,10 @@ Currently, the project is in early concept and development phase.
 Contributions are welcome later once the basic structure is in place.
 Follow the repository to stay updated.
 
+## 🚀 Goal:
+
+To create an RPG ecosystem that will live, breathe, and evolve endlessly.
+
 ## License
 
 This project is licensed under the Mozilla Public License 2.0 – see the [LICENSE](./LICENSE) file for details.
@@ -39,9 +43,4 @@ Social events, economy, and politics in the game
 
 Deep community integration without donations
 
-Real bonuses for high-level players
-
-
-🚀 Goal:
-
-To create an RPG ecosystem that will live, breathe, and evolve endlessly.
+Real bonuses for high-level players.
