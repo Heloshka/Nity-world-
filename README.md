@@ -1,4 +1,4 @@
-##nity-world
+## nity world 
 🌌 Nity World – A Living Digital Universe
 
 Nity World is an ambitious next-generation RPG world that adapts to player actions, changes in real time, and continues to live even without a developer.
