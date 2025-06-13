@@ -19,6 +19,12 @@ AI-generated world that responds to the player
 
 40-level relationship system with NPCs and players
 
+## 🤝 How to Contribute
+
+Currently, the project is in early concept and development phase.
+Contributions are welcome later once the basic structure is in place.
+Follow the repository to stay updated.
+
 ## License
 
 This project is licensed under the Mozilla Public License 2.0 – see the [LICENSE](./LICENSE) file for details.
